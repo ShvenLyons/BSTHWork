@@ -8,7 +8,7 @@
 2. **Students of the Computer Network Course** will be able to **explain the basic concept of domain names and DNS, and describe how a domain name is resolved into an IP address**.
 
 ## 50-minute Tutorial Lesson Plan
-This 50-minute tutorial lesson is designed based on the **5E Model** and the **Bookend Model**.
+> [Trigger](https://www.douyin.com/video/7029988216426073381)
 
 ### Engage (0–6 min)
 Start with a real-life question: **“What happens when we type a URL into a browser and press Enter?”**
