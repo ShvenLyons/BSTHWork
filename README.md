@@ -1,16 +1,16 @@
 # Micro-teaching Worksheet
 
-## Topic
+# Topic
 **Computer Network Fundamentals: OSI 7-layer model and DNS**
 
-## Intended Learning Outcomes (ILOs)
+# Intended Learning Outcomes (ILOs)
 1. **Students of the Computer Network Course** will be able to **identify the seven layers of the OSI model and briefly explain the basic function of each layer**.
 2. **Students of the Computer Network Course** will be able to **explain the basic concept of domain names and DNS, and describe how a domain name is resolved into an IP address**.
 
-## 50-minute Tutorial Lesson Plan
+# 50-minute Tutorial Lesson Plan
 > [Trigger](https://www.douyin.com/video/7029988216426073381)
 
-### Engage (0–6 min)
+## Engage (0–6 min)
 Start with a real-life question: **“What happens when we type a URL into a browser and press Enter?”**
 
 The lesson begins by connecting students’ everyday online experience with two key concepts in computer networks:
@@ -24,7 +24,7 @@ Students respond to short guided questions such as:
 
 This opening is used to gain attention, activate prior knowledge, and show the relevance of the lesson.
 
-### Explore (6–14 min)
+## Explore (6–14 min)
 Before giving formal explanations, students are asked to brainstorm how network communication may be structured.
 
 The teacher asks questions such as:
@@ -34,9 +34,9 @@ The teacher asks questions such as:
 
 Students share brief responses, and the teacher collects their ideas. This stage encourages exploration before formal teaching.
 
-### Explain (14–28 min)
+## Explain (14–28 min)
 
-#### Part A: OSI 7-layer model (14–22 min)
+### Part A: OSI 7-layer model (14–22 min)
 The teacher introduces the seven layers of the OSI model and briefly explains the function of each layer:
 
 1. **Physical Layer** – transmits raw bits through physical media  
@@ -54,7 +54,7 @@ After the explanation, students complete a small **layer header design** task. T
 
 This helps students understand that each layer has its own responsibility and control information.
 
-#### Part B: Domain names and DNS (22–28 min)
+### Part B: Domain names and DNS (22–28 min)
 The teacher explains:
 - what a domain name is
 - why domain names are used instead of IP addresses
@@ -69,10 +69,10 @@ Students learn the hierarchical meaning of each part:
 - `example` = second-level domain
 - `www` = subdomain or host name
 
-### Elaborate (28–42 min)
+## Elaborate (28–42 min)
 Students apply what they have learned through two tasks.
 
-#### Task 1: Analyze a domain name or URL (28–35 min)
+### Task 1: Analyze a domain name or URL (28–35 min)
 Students are given a domain name or URL, for example:
 
 `https://mail.cs.example.edu/index.html`
@@ -88,7 +88,7 @@ They identify the meaning of each part, such as:
 
 This task helps students understand the structure of domain names in realistic Internet examples.
 
-#### Task 2: Draw the DNS resolution process (35–42 min)
+### Task 2: Draw the DNS resolution process (35–42 min)
 Students are given:
 - one domain name URL
 - several DNS servers, such as:
@@ -109,7 +109,7 @@ They then draw the DNS resolution process step by step. For example, for `www.ex
 
 This task helps students visualize the DNS hierarchy and resolution process.
 
-### Evaluate (42–50 min)
+## Evaluate (42–50 min)
 At the end of the lesson, students complete a short exit check.
 
 They answer the following questions:
@@ -123,14 +123,14 @@ The teacher then gives a short summary:
 - **DNS** helps humans use domain names while computers communicate using IP addresses
 - both concepts are fundamental to understanding how the Internet works
 
-## Use of the 5E Model
+# Use of the 5E Model
 - **Engage:** Students are introduced to the lesson through a familiar Internet scenario.
 - **Explore:** Students brainstorm how communication and name resolution may work.
 - **Explain:** The teacher explains the OSI 7-layer model, domain names, and DNS.
 - **Elaborate:** Students apply knowledge through URL analysis, layer header design, and DNS process drawing.
 - **Evaluate:** Students complete short exit questions to demonstrate understanding.
 
-## Use of the Bookend Model
+# Use of the Bookend Model
 This lesson also follows the **Bookend Model**:
 - it begins with a short instructor-led introduction and framing
 - it includes active learning tasks in the middle of the lesson
@@ -140,6 +140,6 @@ Thus, the overall structure is:
 
 **Brief input → active learning tasks → closing assessment and summary**
 
-## Two Active Learning Strategies
+# Active Learning Strategies
 1. **Question-and-answer discussion**  
 2. **Diagramming / drawing task**
